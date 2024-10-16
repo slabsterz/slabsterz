@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivaylo Dimitrov
 - 👀 I’m interested in QA Engineering
-- 🌱 I’m currently learning Automation QA Engineering
+- 🌱 I’m a Automation QA Engineering graduate
 - 📫 How to reach me https://www.linkedin.com/in/ivaylo-dimitrov-2a52ba289/
 
 <!---
